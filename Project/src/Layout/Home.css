@@ -1,0 +1,27 @@
+.Home{
+    
+}
+.grid{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    /* height: 530px; */
+}
+.left h1{ 
+    text-align: center;
+    size: 5px;
+}
+.left p{
+    text-align: center;
+}
+.middle{
+    /* width: 40px;
+    vertical-align: top;
+    padding-bottom: 100px;
+    padding-right:800px;
+    padding-left:500px ; */
+
+}
+.middle div img{
+    width: 100px;
+    height: 300px;
+}
